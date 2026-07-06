@@ -78,10 +78,11 @@ body {
     width: 45px;
     height: 45px;
     border-radius: 5px;
-    background: #4192D9;
+    background: lightslategray;
 }
 
 .slink:hover {
+    background: #44be7b;
     cursor: pointer;
 }
 
